@@ -31,7 +31,7 @@ This site is a collection of my (Brett Packard) reading notes while learning at 
 >Instructor: Sonia Kandah
 
 
-- [ ] Reading 1
+- [ ] [Reading 1](/reading_01_401n16.md)
 - [ ] Reading 2
 - [ ] Reading 3
 - [ ] Reading 4
