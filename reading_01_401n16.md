@@ -33,11 +33,15 @@
 ## Discussion
 ### 1. Why would you want to run JavaScript code outside of a browser?
 * JavaScript is capable of more than performing functions to enhance a webpage. Some examples we've already seen are that we can run a web server to render, route, and deliver webpages, and handle requests and responses to third parties across the web. We know we can interact with databases, events, and API's.
+
 ### 2. What is the difference between a module and a package?
 * A module is one of the smallest collections of code in a Node.js environment, it is a single file. It is meant to be called by other files for the limited code it contains. A package is the complete collection of modules.
+
 ### 3. What is one benefit of Test Driven Development?
 * One benefit of TDD is higher confidence in the quality of the code being delivered.
+
 ### 4. What is one potential downside of Test Driven Development?
 * One of the biggest downsides of TDD is the cost in time.
+
 ### 5. What does the node package manager do?
 * NPM hosts a collection of packages (largest in the world), and it offers an interface to store and retrieve packages.
