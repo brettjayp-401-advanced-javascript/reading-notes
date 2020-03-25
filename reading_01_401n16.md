@@ -45,3 +45,12 @@
 
 ### 5. What does the node package manager do?
 * NPM hosts a collection of packages (largest in the world), and it offers an interface to store and retrieve packages.
+
+
+
+
+
+
+
+
+[Return to Home](../README.md)
