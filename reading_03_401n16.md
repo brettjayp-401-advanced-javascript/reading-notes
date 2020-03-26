@@ -2,6 +2,16 @@
 ## 401n16
 
 
+## Discussion
+### 1. 
+- 
+
+
+## Vocabulary
+* ****
+- 
+
+
 
 
 
