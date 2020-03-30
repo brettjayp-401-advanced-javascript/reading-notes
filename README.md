@@ -37,7 +37,7 @@ This site is a collection of my (Brett Packard) reading notes while learning at 
 - [ ] [Reading 3](/reading_03_401n16.md)
 - [x] [Reading 4](/reading_04_401n16.md)
 - [x] [Reading 5](/reading_05_401n16.md)
-- [ ] Reading 6(/reading_06_401n16.md)
+- [x] [Reading 6](/reading_06_401n16.md)
 - [ ] Reading 7
 - [ ] Reading 8
 - [ ] Reading 9
